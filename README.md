@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00\&size=30\&center=true\&vCenter=true\&width=1000\&lines=Initializing+system...;User:+Casaroto;Role:+Web+Developer;Status:+Learning;Access+Granted)](https://git.io/typing-svg)
 
 <p align="center">
-  💻 Studying Systems Development Technician<br>
+  💻 Studying Systems Development Technician <br>
   💻 Studying Software Engineering
 </p>
 
